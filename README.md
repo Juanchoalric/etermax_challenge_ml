@@ -11,7 +11,7 @@ https://colab.research.google.com/drive/1o4_TnM62iJCTwikvrZcfMOxkSdv2ps5k?usp=sh
 3. Run "python app.py" to start the application
 4. Use your favorite tool for doing http request (for example: Postman or just the requests python package)
 5. http://127.0.0.1:5000/predict us this url
-6. Pass this json structure as the body of the app
+6. Pass this json structure as the body of the response
 
 {
     "country": "es",
